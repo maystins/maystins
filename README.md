@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=header&text=May%20୨୧&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h3 align="center">
-software engineering student ♡ building soft things with strong logic
+software engineering student ♡ 
 </h3>
 
 ---
@@ -11,9 +11,8 @@ software engineering student ♡ building soft things with strong logic
 ```yaml
 name: May
 education: Software Engineering
-currently_learning: Data Structures & Clean Code
-focus: C | Java | JavaScript
-vibe: soft but disciplined
+currently_learning: Java
+focus: Java | HTML | CSS | JavaScript
 ```
 
 ---
