@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=May%20Martins%20୨୧&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Mayra%20୨୧&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%E2%99%A1;Building+soft+things+with+strong+logic;Always+learning+%E2%9C%A8" />
@@ -9,7 +9,7 @@
 ### ୨୧ about me
 
 ```yaml
-name: May
+name: Mayra
 education: Software Engineering
 currently_learning: Data Structures & Clean Code
 main_languages: C, Java, JavaScript
