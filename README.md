@@ -12,7 +12,7 @@
 - 💻 passionate about programming and well-organized projects  
 - 🌷 i love understanding the "why" behind things  
 - 📚 always learning and improving  
-- ✨ focused on writing clean and functional code  
+- ✨ focused on clean and functional code  
 
 ---
 
@@ -27,9 +27,13 @@
 ### 🌸 github stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maystins&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maystins&layout=compact&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maystins&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maystins&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 <p align="center">
