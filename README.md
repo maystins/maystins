@@ -1,34 +1,38 @@
-## Hi there 👋  
-I'm May ✨  
+<h1 align="center"> ୨୧ hi, i'm May ୨୧ </h1>
 
-🎓 Software Engineering Student from Brazil  
-💻 Passionate about programming and building beautiful things  
-🎬 Movie lover & tech enthusiast  
-
----
-
-### 🌱 Currently learning  
-- C, C++  
-- Python  
-- Java  
-- JavaScript  
-- HTML & CSS  
-- React  
+<p align="center">
+  software engineering student ♡  
+  building things with logic, care and a little bit of coffee ☕
+</p>
 
 ---
 
-### 📊 GitHub Stats  
+### 🎀 about me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maystins&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maystins&layout=compact&theme=tokyonight)
-
----
-
-### 🛠️ Languages and Tools  
-
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,figma,git,github,vscode)
+- 💻 passionate about programming and well-organized projects  
+- 🌷 i love understanding the "why" behind things  
+- 📚 always learning and improving  
+- ✨ focused on writing clean and functional code  
 
 ---
 
-✨ *Always learning, always creating.*
+### 🧁 languages & tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,figma,git,github,vscode" />
+</p>
+
+---
+
+### 🌸 github stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maystins&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maystins&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  ୨୧ thank you for visiting ୨୧
+</p>
