@@ -27,10 +27,9 @@
 ### 🌸 github stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maystins&show_icons=true&theme=rose_pine&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maystins&layout=compact&theme=rose_pine&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maystins&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maystins&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
-
 ---
 
 <p align="center">
