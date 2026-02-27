@@ -11,9 +11,8 @@
 ```yaml
 name: Mayra
 education: Software Engineering
-currently_learning: Data Structures & Clean Code
-main_languages: C, Java, JavaScript
-aesthetic: soft pink + organized code
+currently_learning: Data Structures
+main_languages: HTML, Java, JavaScript
 ```
 
 ---
